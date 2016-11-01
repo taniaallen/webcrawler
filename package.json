@@ -1,0 +1,19 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "Javascript webcrawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taniaallen/webcrawler.git"
+  },
+  "author": "tania allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taniaallen/webcrawler/issues"
+  },
+  "homepage": "https://github.com/taniaallen/webcrawler#readme"
+}
