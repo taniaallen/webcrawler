@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/taniaallen/webcrawler/issues"
   },
-  "homepage": "https://github.com/taniaallen/webcrawler#readme"
+  "homepage": "https://github.com/taniaallen/webcrawler#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.5",
+    "request": "^2.76.0"
+  }
 }
