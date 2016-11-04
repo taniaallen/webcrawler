@@ -20,6 +20,8 @@
     "cheerio": "^0.22.0",
     "express": "^4.14.0",
     "mongoose": "^4.6.5",
-    "request": "^2.76.0"
+    "object-crawl": "^1.0.1",
+    "request": "^2.76.0",
+    "url-parse": "^1.1.7"
   }
 }
